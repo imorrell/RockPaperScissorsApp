@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.0\RockPaperScissorsApp.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.0\RockPaperScissorsApp.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.0\RockPaperScissorsApp.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.0\RockPaperScissorsApp.exe
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.0\RockPaperScissorsApp.deps.json
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.0\RockPaperScissorsApp.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.0\RockPaperScissorsApp.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.0\RockPaperScissorsApp.dll
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.0\RockPaperScissorsApp.pdb
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.0\RockPaperScissorsApp.dll
+C:\Users\Prophesy\Documents\C#2019\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.0\RockPaperScissorsApp.pdb
